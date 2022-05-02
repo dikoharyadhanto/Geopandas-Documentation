@@ -12,7 +12,7 @@ Dokumentasi Pembelajaran Geopandas untuk GIS dan Pemetaan dengan Python
 4. Basic Map Design: Color-Based Column and Legend Configuration
 
 
-## [Notebook 1GPD - Convert Coordinates from CSV to ESRI Shapefile](https://github.com/dikoharyadhanto/Geopandas-Documentation/blob/4a6601aca1c3f22d0ce7f0a6c4b841c6eab0111e/002_Convert_CSV_Into_Esri_Shapefile.ipynb)
+## [Notebook 2GGPD - Convert Coordinates from CSV to ESRI Shapefile](https://github.com/dikoharyadhanto/Geopandas-Documentation/blob/4a6601aca1c3f22d0ce7f0a6c4b841c6eab0111e/002_Convert_CSV_Into_Esri_Shapefile.ipynb)
 
 **Content:**
 
