@@ -19,3 +19,12 @@ Dokumentasi Pembelajaran Geopandas untuk GIS dan Pemetaan dengan Python
 1. Read CSV File
 2. Create GeoDataFrame
 3. Save the File as Esri Shapefile
+
+
+## [Notebook 3GGPD - Extract Elevation From DEM](https://github.com/dikoharyadhanto/Geopandas-Documentation/blob/76f73baf6ced806c378ee8eaf74cb568a322ba21/003_Extract_elevation_from_a_DEM.ipynb)
+
+**Content:**
+
+1. Get The lat and long Values with iteration from Geometry Column
+2. Extract The Specific DEM Elevation Values to Each Station
+3. Add Elevation Column and Record DEM Elevation Value Into GeoDataFrame
